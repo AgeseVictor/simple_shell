@@ -61,7 +61,7 @@ return (0);
 return (1);
 }
 /**
- * cmd_executions - executes a builtin command
+ * cmd_executions - executes the builtin command
  * @cmd: the command input
  * @lineptr: pointer to input line
  * @ env: ptr to ptr of a ptr to env
