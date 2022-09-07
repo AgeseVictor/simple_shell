@@ -2,7 +2,7 @@
 #define SHELL_H
 
 #ifndef BUF_SIZE
-#define BUF_SIZE 256
+#define BUF_SIZE 25
 #endif
 
 #include <stdlib.h>
