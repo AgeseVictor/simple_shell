@@ -2,7 +2,7 @@
 
 /**
  * get_cmd_fpath - Looks for executable program in PATH.
- * @cmd: executable program to be searched
+ * @cmd: executable program to be searche
  * @env: environment context
  * Return: if program found in PATH, returns a string specifying full path or
  * returns ~cmd~ unchanged (for relative path.). On memory error, returns NULL.
