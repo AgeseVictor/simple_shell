@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * interrupt_handler - keeps shell alive when key pressed
+ * interrupt_handler - keeps shell alive when key presse
  * @signum: interrupt key 'Enter', ..
  */
 void interrupt_handler(int signum)
