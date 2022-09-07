@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * _strncmp - compares n chars in two strings
+ * _strncmp - compares n chars in two string
  * @s1: string1
  * @s2: string2
  * @n: length of char in a string
