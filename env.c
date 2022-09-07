@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * current_env - returns current/inherited env variables
+ * current_env - returns current/inherited env variable
  * @env: current env variables
  * Return: pointer to pointer of env variables
  */
