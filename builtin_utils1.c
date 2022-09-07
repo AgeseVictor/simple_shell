@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _setenv - sets the environment variable
+ * _setenv - sets a environment variable
  * @env: the current environment
  * Return: 0 on success.
  */
