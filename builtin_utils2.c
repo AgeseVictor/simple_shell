@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * _unsetenv - unsets enviroment variables
+ * _unsetenv - unsets the enviroment variables
  * @env: pointer to pointer of a pointer to env variable
  * Return: 0 on Success
  */
@@ -68,7 +68,7 @@ free_env(*env);
 *env = new_env;
 }
 /**
- * _atoin -  converts string to integer
+ * _atoin -  converts the string to integer
  * @s: pointer to string
  * @len: char length of string
  * Return: integer value of string chars
