@@ -88,6 +88,3 @@ $
 
 README.md: this.
 
-### Contact Info:
-
-Git: [Biniyam Melaku](https://github.com/biniyammelaku2), 
