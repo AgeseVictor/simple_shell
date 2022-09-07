@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * _cstrcmp - compares smaller str part to the large
+ * _cstrcmp - compares smaller str part to the larger
  * @s1: first string
  * @s2: second string
  * Return: 0 string parts are equal, > 0 or < 0 greater or lesser,
