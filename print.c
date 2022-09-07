@@ -10,7 +10,7 @@ int putch(char ch)
 return (write(1, &ch, 1));
 }
 /**
- * print - prints a strin
+ * print - prints a string
  * @str: string value
  */
 void print(char *str)
