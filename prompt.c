@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * prompt1 - prompts user for inpu
+ * prompt1 - prompts user for input
  */
 void prompt1(void)
 {
