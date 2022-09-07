@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * main - Entry point for program executio
+ * main - Entry point for program execution
  * @argc: length of arg array
  * @argv: arguments array
  * @env: current env variables passed to child processes
