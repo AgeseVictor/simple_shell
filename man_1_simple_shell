@@ -8,7 +8,7 @@
 ./hsh [options] [file]
 
 .SH DESCRIPTION
-Simple_Shell is an sh-compatible command language interpreter that execute
+Simple_Shell is an sh-compatible command language interpreter that executes
 commands read from the standard input.
 
 .SH Return
